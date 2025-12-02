@@ -1,26 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter2/_47/Program.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿namespace _47
-{
-    class Program
-    {
-        void CreateUser(string name)
-        {
-            var userName = new UserName(name);
-            var user = new User(userName);
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter2/_47/Program.dart
 
-            // ...
-        }
-
-        void UpdateUser(string id, string name)
-        {
-            var userName = new UserName(name);
-
-            // ...
-        }
-    }
+void main() {
+  print('TODO: implement Chapter2/_47/Program.dart');
 }
-
-*/

@@ -1,15 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter12/_17/SnsDomain/Models/Circles/ICircleRepository.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿namespace _17.SnsDomain.Models.Circles
-{
-    public interface ICircleRepository
-    {
-        void Save(Circle circle);
-        Circle Find(CircleId id);
-        Circle Find(CircleName name);
-    }
-}
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter12/_17/SnsDomain/Models/Circles/ICircleRepository.dart
 
-*/
+class ICircleRepository {
+  // TODO: implement ICircleRepository
+}

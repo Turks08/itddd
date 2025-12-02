@@ -1,45 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter8/_04_to_12/Config/Dependency/SqlConnectionDependencySetup.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿using _04_to_12.Application.Users;
-using _04_to_12.Models.Users;
-using _04_to_12.SqlInfrastructure;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter8/_04_to_12/Config/Dependency/SqlConnectionDependencySetup.dart
 
-namespace _04_to_12.Config.Dependency
-{
-    public class SqlConnectionDependencySetup : IDependencySetup
-    {
-        private readonly IConfiguration configuration;
-
-        public SqlConnectionDependencySetup(IConfiguration configuration)
-        {
-            this.configuration = configuration;
-        }
-
-        public void Run(IServiceCollection services)
-        {
-            SetupRepositories(services);
-            SetupApplicationServices(services);
-            SetupDomainServices(services);
-        }
-
-        private void SetupRepositories(IServiceCollection services)
-        {
-            services.AddTransient<IUserRepository, SqlUserRepository>();
-        }
-
-        private void SetupApplicationServices(IServiceCollection services)
-        {
-            services.AddTransient<UserApplicationService>();
-        }
-
-        private void SetupDomainServices(IServiceCollection services)
-        {
-            services.AddTransient<UserService>();
-        }
-    }
+class SqlConnectionDependencySetup {
+  // TODO: implement SqlConnectionDependencySetup
 }
-*/

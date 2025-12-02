@@ -1,28 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter13/_13/SnsDomain/Models/Circles/CircleRecommendSpecification.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿using System;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter13/_13/SnsDomain/Models/Circles/CircleRecommendSpecification.dart
 
-namespace _13.SnsDomain.Models.Circles
-{
-    public class CircleRecommendSpecification
-    {
-        private readonly DateTime executeDateTime;
-        public CircleRecommendSpecification(DateTime executeDateTime)
-        {
-            this.executeDateTime = executeDateTime;
-        }
-
-        public bool IsSatisfiedBy(Circle circle)
-        {
-            if (circle.CountMembers() < 10)
-            {
-                return false;
-            }
-            return circle.Created > executeDateTime.AddMonths(-1);
-        }
-    }
+class CircleRecommendSpecification {
+  // TODO: implement CircleRecommendSpecification
 }
-
-*/

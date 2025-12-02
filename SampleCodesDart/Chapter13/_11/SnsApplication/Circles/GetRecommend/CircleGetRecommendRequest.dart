@@ -1,12 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter13/_11/SnsApplication/Circles/GetRecommend/CircleGetRecommendRequest.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿namespace _11.SnsApplication.Circles.GetRecommend
-{
-    public class CircleGetRecommendRequest
-    {
-    }
-}
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter13/_11/SnsApplication/Circles/GetRecommend/CircleGetRecommendRequest.dart
 
-*/
+class CircleGetRecommendRequest {
+  // TODO: implement CircleGetRecommendRequest
+}

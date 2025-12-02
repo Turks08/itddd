@@ -1,12 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter7/_16/IFooRepository.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿namespace _16
-{
-    public interface IFooRepository
-    {
-    }
-}
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter7/_16/IFooRepository.dart
 
-*/
+class IFooRepository {
+  // TODO: implement IFooRepository
+}

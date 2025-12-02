@@ -1,42 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter6/_17/UserUpdateCommand.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿using System;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter6/_17/UserUpdateCommand.dart
 
-namespace _17
-{
-    public class UserUpdateCommand
-    {
-        public UserUpdateCommand(string id)
-        {
-            Id = id;
-        }
-
-        public string Id { get; }
-        /// <summary> データが設定されると変更される </summary>
-        public string Name { get; set; }
-        /// <summary> データが設定されると変更される </summary>
-        public string MailAddress { get; set; }
-    }
-
-    namespace AnotherOne
-    {
-        // 次のようにコンストラクタで名前やメールアドレスが任意であることを主張させてもよい
-        public class UserUpdateCommand
-        {
-            public UserUpdateCommand(string id, string name = null, string mailAddress = null)
-            {
-                Id = id;
-                Name = name;
-                MailAddress = mailAddress;
-            }
-
-            public string Id { get; }
-            public string Name { get; } // この場合セッターがなくなる
-            public string MailAddress { get; } // この場合セッターがなくなる
-        }
-    }
+class UserUpdateCommand {
+  // TODO: implement UserUpdateCommand
 }
-
-*/

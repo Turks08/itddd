@@ -1,18 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter6/_34/UserDeleteCommand.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿namespace _34
-{
-    public class UserDeleteCommand
-    {
-        public UserDeleteCommand(string id)
-        {
-            Id = id;
-        }
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter6/_34/UserDeleteCommand.dart
 
-        public string Id { get; }
-    }
+class UserDeleteCommand {
+  // TODO: implement UserDeleteCommand
 }
-
-*/

@@ -1,18 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter7/_08/Program.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿namespace _8
-{
-    class Program
-    {
-        public static void Main(string[] args)
-        {
-            ServiceLocator.Register<IUserRepository, InMemoryUserRepository>();
-            var applicationService = new UserApplicationService();
-            var result = applicationService.Get("test-user-id");
-        }
-    }
-}
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter7/_08/Program.dart
 
-*/
+void main() {
+  print('TODO: implement Chapter7/_08/Program.dart');
+}

@@ -1,19 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter3/_07/Program.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿using System;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter3/_07/Program.dart
 
-namespace _07
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            var program = new MyProgram();
-            program.Main();
-        }
-    }
+void main() {
+  print('TODO: implement Chapter3/_07/Program.dart');
 }
-
-*/

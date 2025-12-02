@@ -1,45 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter12/_13/SnsDomain/Models/Users/UserId.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿using System;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter12/_13/SnsDomain/Models/Users/UserId.dart
 
-namespace _13.SnsDomain.Models.Users
-{
-    public class UserId : IEquatable<UserId>
-    {
-        public UserId(string value)
-        {
-            Value = value;
-        }
-
-        public string Value { get; }
-
-        public bool Equals(UserId other)
-        {
-            if (ReferenceEquals(null, other)) return false;
-            if (ReferenceEquals(this, other)) return true;
-            return string.Equals(Value, other.Value);
-        }
-
-        public override bool Equals(object obj)
-        {
-            if (ReferenceEquals(null, obj)) return false;
-            if (ReferenceEquals(this, obj)) return true;
-            if (obj.GetType() != this.GetType()) return false;
-            return Equals((UserId) obj);
-        }
-
-        public override int GetHashCode()
-        {
-            return (Value != null ? Value.GetHashCode() : 0);
-        }
-
-        public override string ToString()
-        {
-            return Value;
-        }
-    }
+class UserId {
+  // TODO: implement UserId
 }
-
-*/

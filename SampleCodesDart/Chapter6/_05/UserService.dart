@@ -1,25 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter6/_05/UserService.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿namespace _05
-{
-    public class UserService
-    {
-        private readonly IUserRepository userRepository;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter6/_05/UserService.dart
 
-        public UserService(IUserRepository userRepository)
-        {
-            this.userRepository = userRepository;
-        }
-
-        public bool Exists(User user)
-        {
-            var duplicatedUser = userRepository.Find(user.Name);
-
-            return duplicatedUser != null;
-        }
-    }
+class UserService {
+  // TODO: implement UserService
 }
-
-*/

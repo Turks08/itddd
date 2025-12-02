@@ -1,19 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter6/_15/UserNotFoundException.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿using System;
-namespace _15
-{
-    public class UserNotFoundException : Exception
-    {
-        public UserNotFoundException(UserId userId)
-        {
-            UserId = userId?.Value;
-        }
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter6/_15/UserNotFoundException.dart
 
-        public string UserId { get; }
-    }
+class UserNotFoundException {
+  // TODO: implement UserNotFoundException
 }
-
-*/

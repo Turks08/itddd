@@ -1,20 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter13/_18/SnsApplication/Users/Update/UserUpdateCommand.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿namespace _18.SnsApplication.Users.Update
-{
-    public class UserUpdateCommand
-    {
-        public UserUpdateCommand(string id, string name = null)
-        {
-            Id = id;
-            Name = name;
-        }
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter13/_18/SnsApplication/Users/Update/UserUpdateCommand.dart
 
-        public string Id { get; }
-        public string Name { get; }
-    }
+class UserUpdateCommand {
+  // TODO: implement UserUpdateCommand
 }
-
-*/

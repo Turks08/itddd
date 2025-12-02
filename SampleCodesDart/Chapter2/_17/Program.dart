@@ -1,26 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter2/_17/Program.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿using System;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter2/_17/Program.dart
 
-namespace _17
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            var nameA = new FullName("masanobu", "naruse");
-            var nameB = new FullName("john", "smith");
-
-            var compareResult = nameA.Equals(nameB);
-            Console.WriteLine(compareResult);
-
-            // 演算子のオーバーライド機能を活用することも選択肢に入る
-            var compareResult2 = nameA == nameB;
-            Console.WriteLine(compareResult2);
-        }
-    }
+void main() {
+  print('TODO: implement Chapter2/_17/Program.dart');
 }
-
-*/

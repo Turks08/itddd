@@ -1,15 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter12/_16/SnsDomain/Models/Circles/ICircleFactory.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿using _08.SnsDomain.Models.Users;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter12/_16/SnsDomain/Models/Circles/ICircleFactory.dart
 
-namespace _08.SnsDomain.Models.Circles
-{
-    public interface ICircleFactory
-    {
-        Circle Create(CircleName name, User owner);
-    }
+class ICircleFactory {
+  // TODO: implement ICircleFactory
 }
-
-*/

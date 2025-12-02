@@ -1,14 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter10/_14/Domain/Models/Users/IUserFactory.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿namespace _14.Domain.Models.Users
-{
-    public interface IUserFactory
-    {
-        User Create(UserName name);
-    }
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter10/_14/Domain/Models/Users/IUserFactory.dart
 
+class IUserFactory {
+  // TODO: implement IUserFactory
 }
-
-*/

@@ -1,25 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter5/_17/EntryPoint.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿using System.Linq;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter5/_17/EntryPoint.dart
 
-namespace _17
-{
-    class EntryPoint
-    {
-        public static void Main(string[] args)
-        {
-            var userRepository = new InMemoryUserRepository();
-            var program = new Program(userRepository);
-            program.CreateUser("nrs");
-
-            // データを取り出して確認
-            var head = userRepository.Store.Values.First();
-            Assert.AreEqual("nrs", head.Name);
-        }
-    }
+class EntryPoint {
+  // TODO: implement EntryPoint
 }
-
-*/

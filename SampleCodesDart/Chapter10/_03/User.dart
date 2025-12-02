@@ -1,45 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter10/_03/User.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿using System;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter10/_03/User.dart
 
-namespace _03
-{
-    public class User
-    {
-        public User(UserName name, MailAddress mail)
-        {
-            if (name == null) throw new ArgumentNullException(nameof(name));
-            if (mail == null) throw new ArgumentNullException(nameof(mail));
-
-            Id = new UserId(Guid.NewGuid().ToString());
-            Name = name;
-            Mail = mail;
-        }
-
-        public User(UserId id, UserName name, MailAddress mail)
-        {
-            if (id == null) throw new ArgumentNullException(nameof(id));
-            if (name == null) throw new ArgumentNullException(nameof(name));
-            if (mail == null) throw new ArgumentNullException(nameof(mail));
-
-            Id = id;
-            Name = name;
-            Mail = mail;
-        }
-
-        public UserId Id { get; }
-        public UserName Name { get; private set; }
-        public MailAddress Mail { get; private set; }
-
-        public void ChangeName(UserName name)
-        {
-            if (name == null) throw new ArgumentNullException(nameof(name));
-
-            Name = name;
-        }
-    }
+class User {
+  // TODO: implement User
 }
-
-*/

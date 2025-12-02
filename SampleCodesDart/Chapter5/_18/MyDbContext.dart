@@ -1,30 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter5/_18/MyDbContext.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿using System.Configuration;
-using Microsoft.EntityFrameworkCore;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter5/_18/MyDbContext.dart
 
-namespace _18
-{
-    public class MyDbContext : DbContext
-    {
-        public static MyDbContext Create()
-        {
-            var builder = new DbContextOptionsBuilder<MyDbContext>();
-            builder.UseSqlServer(ConfigurationManager.ConnectionStrings["FooConnection"].ConnectionString);
-            var options = builder.Options;
-            var context = new MyDbContext(options);
-
-            return context;
-        }
-
-        public MyDbContext(DbContextOptions<MyDbContext> options) : base(options)
-        {
-        }
-
-        public DbSet<UserDataModel> Users { get; set; }
-    }
+class MyDbContext {
+  // TODO: implement MyDbContext
 }
-
-*/

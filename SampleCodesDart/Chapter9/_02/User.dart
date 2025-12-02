@@ -1,60 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter9/_02/User.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿using System;
-using System.Configuration;
-using System.Data.SqlClient;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter9/_02/User.dart
 
-namespace _02
-{
-    public class User
-    {
-        private readonly UserId id;
-        private UserName name;
-
-        public User(UserName name)
-        {
-            string seqId;
-            // データべースの接続設定からコネクションを作成して
-            var connectionString = ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString;
-            using (var connection = new SqlConnection(connectionString))
-            using (var command = connection.CreateCommand())
-            {
-                connection.Open();
-                // 採番テーブルを利用し採番処理を行っている
-                command.CommandText = "SELECT seq = (NEXT VALUE FOR UserSeq)";
-                using (var reader = command.ExecuteReader())
-                {
-                    if (reader.Read())
-                    {
-                        var rawSeqId = reader["seq"];
-                        seqId = rawSeqId.ToString();
-                    }
-                    else
-                    {
-                        throw new Exception();
-                    }
-                }
-            }
-        }
-
-        public User(UserId id, UserName name)
-        {
-            if (id == null) throw new ArgumentNullException(nameof(id));
-            if (name == null) throw new ArgumentNullException(nameof(name));
-
-            this.id = id;
-            this.name = name;
-        }
-
-        public void ChangeName(UserName name)
-        {
-            if (name == null) throw new ArgumentNullException(nameof(name));
-
-            this.name = name;
-        }
-    }
+class User {
+  // TODO: implement User
 }
-
-*/

@@ -1,36 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter9/_12/User.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿using System;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter9/_12/User.dart
 
-namespace _12
-{
-    public class User
-    {
-        private readonly UserId id;
-        private UserName name;
-
-        // コンストラクタがあることがわかるのみ
-        public User(UserId id, UserName name)
-        {
-            if (id == null) throw new ArgumentNullException(nameof(id));
-            if (name == null) throw new ArgumentNullException(nameof(name));
-
-            this.id = id;
-            this.name = name;
-        }
-
-        public UserId Id => id;
-        public UserName Name => name;
-
-        public void ChangeName(UserName name)
-        {
-            if (name == null) throw new ArgumentNullException(nameof(name));
-
-            this.name = name;
-        }
-    }
+class User {
+  // TODO: implement User
 }
-
-*/

@@ -1,20 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter13/_22/SnsApplication/Circles/GetSummaries/CircleSummaryData.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿namespace _22.SnsApplication.Circles.GetSummaries
-{
-    public class CircleSummaryData
-    {
-        public CircleSummaryData(string id, string name)
-        {
-            Id = id;
-            Name = name;
-        }
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter13/_22/SnsApplication/Circles/GetSummaries/CircleSummaryData.dart
 
-        public string Id { get; }
-        public string Name { get; }
-    }
+class CircleSummaryData {
+  // TODO: implement CircleSummaryData
 }
-
-*/

@@ -1,25 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter5/_18/UserDataModel.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
-using System.Text;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter5/_18/UserDataModel.dart
 
-namespace _18
-{
-    [Table("Users")]
-    public class UserDataModel
-    {
-        [DatabaseGenerated(DatabaseGeneratedOption.None)]
-        public string Id { get; set; }
-
-        [Required]
-        [MinLength(3)]
-        public string Name { get; set; }
-    }
+class UserDataModel {
+  // TODO: implement UserDataModel
 }
-
-*/

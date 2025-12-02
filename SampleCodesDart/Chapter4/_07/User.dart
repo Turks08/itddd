@@ -1,21 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter4/_07/User.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿namespace _07
-{
-    class User
-    {
-        private readonly UserId id;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter4/_07/User.dart
 
-        public User(UserId id, UserName name)
-        {
-            this.id = id;
-            Name = name;
-        }
-
-        public UserName Name { get; set; }
-    }
+class User {
+  // TODO: implement User
 }
-
-*/

@@ -1,18 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter4/_15/Baggage.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿namespace _15
-{
-    class Baggage
-    {
-        public Baggage(BaggageId id)
-        {
-            Id = id;
-        }
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter4/_15/Baggage.dart
 
-        public BaggageId Id { get; }
-    }
+class Baggage {
+  // TODO: implement Baggage
 }
-
-*/

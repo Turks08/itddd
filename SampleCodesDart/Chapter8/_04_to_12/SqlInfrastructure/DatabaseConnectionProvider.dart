@@ -1,43 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter8/_04_to_12/SqlInfrastructure/DatabaseConnectionProvider.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿using System;
-using System.Data.SqlClient;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter8/_04_to_12/SqlInfrastructure/DatabaseConnectionProvider.dart
 
-namespace _04_to_12.SqlInfrastructure
-{
-    public class DatabaseConnectionProvider : IDisposable
-    {
-        private readonly string connectionString;
-        private SqlConnection _connection;
-
-        public DatabaseConnectionProvider(string connectionString)
-        {
-            this.connectionString = connectionString;
-        }
-
-        public SqlConnection Connection
-        {
-            get
-            {
-                if (_connection != null)
-                {
-                    return _connection;
-                }
-
-                _connection = new SqlConnection(connectionString);
-                _connection.Open();
-
-                return _connection;
-            }
-        }
-
-        public void Dispose()
-        {
-            _connection?.Dispose();
-        }
-    }
+class DatabaseConnectionProvider {
+  // TODO: implement DatabaseConnectionProvider
 }
-
-*/

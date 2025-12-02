@@ -1,21 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter8/_04_to_12/Application/Users/GetAll/UserGetAllResult.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿using System.Collections.Generic;
-using _04_to_12.Application.Users.Commons;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter8/_04_to_12/Application/Users/GetAll/UserGetAllResult.dart
 
-namespace _04_to_12.Application.Users.GetAll
-{
-    public class UserGetAllResult
-    {
-        public UserGetAllResult(List<UserData> users)
-        {
-            Users = users;
-        }
-
-        public List<UserData> Users { get; }
-    }
+class UserGetAllResult {
+  // TODO: implement UserGetAllResult
 }
-
-*/

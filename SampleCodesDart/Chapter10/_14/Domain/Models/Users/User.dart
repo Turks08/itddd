@@ -1,34 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter10/_14/Domain/Models/Users/User.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿using System;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter10/_14/Domain/Models/Users/User.dart
 
-namespace _14.Domain.Models.Users
-{
-    public class User : Entity
-    {
-        public User(UserId id, UserName name)
-        {
-            if (id == null) throw new ArgumentNullException(nameof(id));
-            if (name == null) throw new ArgumentNullException(nameof(name));
-
-            Id = id;
-            Name = name;
-            MarkNew();
-        }
-
-        public UserId Id { get; }
-        public UserName Name { get; private set; }
-
-        public void ChangeName(UserName name)
-        {
-            if (name == null) throw new ArgumentNullException(nameof(name));
-
-            Name = name;
-            MarkDirty();
-        }
-    }
+class User {
+  // TODO: implement User
 }
-
-*/

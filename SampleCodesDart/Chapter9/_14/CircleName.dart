@@ -1,24 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter9/_14/CircleName.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿using System;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter9/_14/CircleName.dart
 
-namespace _14
-{
-    public class CircleName
-    {
-        public CircleName(string value)
-        {
-            if (value == null) throw new ArgumentNullException(nameof(value));
-            if (value.Length < 3) throw new ArgumentException("サークル名は３文字以上です");
-            if (value.Length < 20) throw new ArgumentException("サークル名は２０文字以下です");
-
-            Value = value;
-        }
-
-        public string Value { get; }
-    }
+class CircleName {
+  // TODO: implement CircleName
 }
-
-*/

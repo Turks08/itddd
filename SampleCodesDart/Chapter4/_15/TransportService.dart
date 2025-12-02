@@ -1,19 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter4/_15/TransportService.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿namespace _15
-{
-    class TransportService
-    {
-        public void Transport(PhysicalDistributionBase from, PhysicalDistributionBase to, Baggage baggage)
-        {
-            var shippedBaggage = from.Ship(baggage);
-            to.Receive(shippedBaggage);
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter4/_15/TransportService.dart
 
-            // 配送の記録を行う
-        }
-    }
+class TransportService {
+  // TODO: implement TransportService
 }
-
-*/

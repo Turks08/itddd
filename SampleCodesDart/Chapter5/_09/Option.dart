@@ -1,29 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter5/_09/Option.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter5/_09/Option.dart
 
-namespace _09
-{
-    public abstract class Option<T>
-    {
-        public static Option<T> Create(T val)
-        {
-            return new Some<T>(val);
-        }
-
-        public static Option<T> None()
-        {
-            return new None<T>();
-        }
-
-        public abstract TResult Match<TResult>(Func<T, TResult> some, Func<TResult> none = null);
-        public abstract void Match(Action<T> some, Action none = null);
-        public abstract Option<TResult> Map<TResult>(Func<T, TResult> predicate);
-    }
+class Option {
+  // TODO: implement Option
 }
-
-*/

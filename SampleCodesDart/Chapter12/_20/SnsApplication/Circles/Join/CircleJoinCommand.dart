@@ -1,20 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter12/_20/SnsApplication/Circles/Join/CircleJoinCommand.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿namespace _20.SnsApplication.Circles.Join
-{
-    public class CircleJoinCommand
-    {
-        public CircleJoinCommand(string userId, string circleId)
-        {
-            UserId = userId;
-            CircleId = circleId;
-        }
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter12/_20/SnsApplication/Circles/Join/CircleJoinCommand.dart
 
-        public string UserId { get; }
-        public string CircleId { get; }
-    }
+class CircleJoinCommand {
+  // TODO: implement CircleJoinCommand
 }
-
-*/

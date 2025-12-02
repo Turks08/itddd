@@ -1,15 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter7/_01/ObjectA.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿using System;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter7/_01/ObjectA.dart
 
-namespace _1
-{
-    public class ObjectA
-    {
-        private ObjectB objectB;
-    }
+class ObjectA {
+  // TODO: implement ObjectA
 }
-
-*/

@@ -1,26 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter11/_12/SnsApplication/Users/Commons/UserData.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿using _12.SnsDomain.Models.Users;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter11/_12/SnsApplication/Users/Commons/UserData.dart
 
-namespace _12.SnsApplication.Users.Commons
-{
-    public class UserData
-    {
-        public UserData(User user) : this(user.Id.Value, user.Name.Value)
-        {
-        }
-
-        public UserData(string id, string name)
-        {
-            Id = id;
-            Name = name;
-        }
-
-        public string Id { get; }
-        public string Name { get; }
-    }
+class UserData {
+  // TODO: implement UserData
 }
-
-*/
