@@ -1,14 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter6/_29/Class1.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿using System;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter6/_29/Class1.dart
 
-namespace _29
-{
-    public class Class1
-    {
-    }
+class Class1 {
+  // TODO: implement Class1
 }
-
-*/

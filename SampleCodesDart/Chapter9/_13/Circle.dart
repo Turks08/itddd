@@ -1,25 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter9/_13/Circle.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿using System;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter9/_13/Circle.dart
 
-namespace _13
-{
-    public class Circle
-    {
-        public Circle(UserId ownerId, CircleName name)
-        {
-            if (ownerId == null) throw new ArgumentNullException(nameof(ownerId));
-            if (name == null) throw new ArgumentNullException(nameof(name));
-
-            OwnerId = ownerId;
-            Name = name;
-        }
-
-        public UserId OwnerId { get; }
-        public CircleName Name { get; }
-    }
+class Circle {
+  // TODO: implement Circle
 }
-
-*/

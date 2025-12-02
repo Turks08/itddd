@@ -1,18 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter15/_04/ユーザ名.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿namespace _04
-{
-    public class ユーザ名
-    {
-        public ユーザ名(string value)
-        {
-            Value = value;
-        }
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter15/_04/ユーザ名.dart
 
-        public string Value { get; }
-    }
+class ユーザ名 {
+  // TODO: implement ユーザ名
 }
-
-*/

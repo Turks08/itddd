@@ -1,18 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter10/_01/Application/Users/Get/UserGetResult.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿namespace _01.Application.Users.Get
-{
-    public class UserGetResult
-    {
-        public UserGetResult(UserData user)
-        {
-            Domain.Models.Users.User = user;
-        }
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter10/_01/Application/Users/Get/UserGetResult.dart
 
-        public UserData User { get; }
-    }
+class UserGetResult {
+  // TODO: implement UserGetResult
 }
-
-*/

@@ -1,35 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter10/_13/Infrastructure/UnitOfWork.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿using System.Data.SqlClient;
-using _13.Domain.Models.Users;
-using _13.Domain.Shared;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter10/_13/Infrastructure/UnitOfWork.dart
 
-namespace _13.Infrastructure
-{
-    public class UnitOfWork : IUnitOfWork
-    {
-        private readonly SqlConnection connection;
-        private readonly SqlTransaction transaction;
-        private UserRepository userRepository;
-
-        public UnitOfWork(SqlConnection connection, SqlTransaction transaction)
-        {
-            this.connection = connection;
-            this.transaction = transaction;
-        }
-
-        public IUserRepository UserRepository
-        {
-            get => userRepository ?? (userRepository = new UserRepository(connection, transaction));
-        }
-
-        public void Commit()
-        {
-            transaction.Commit();
-        }
-    }
+class UnitOfWork {
+  // TODO: implement UnitOfWork
 }
-
-*/

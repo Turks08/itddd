@@ -1,27 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter2/_37/Program.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿using System;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter2/_37/Program.dart
 
-namespace _37
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            var userName = "me";
-
-            if (userName.Length >= 3)
-            {
-                // 正常な値なので処理を継続する
-            }
-            else
-            {
-                throw new Exception("異常な値です");
-            }
-        }
-    }
+void main() {
+  print('TODO: implement Chapter2/_37/Program.dart');
 }
-
-*/

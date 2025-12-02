@@ -1,19 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter9/_06/IUserRepository.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿using System.Collections.Generic;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter9/_06/IUserRepository.dart
 
-namespace _06
-{
-    public interface IUserRepository
-    {
-        User Find(UserId id);
-        User Find(UserName name);
-        List<User> FindAll();
-        void Save(User user);
-        void Delete(User user);
-    }
+class IUserRepository {
+  // TODO: implement IUserRepository
 }
-
-*/

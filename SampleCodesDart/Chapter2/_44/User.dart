@@ -1,18 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter2/_44/User.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿namespace _44
-{
-    class User
-    {
-        public User(string name)
-        {
-            Name = name;
-        }
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter2/_44/User.dart
 
-        public string Name { get; set; }
-    }
+class User {
+  // TODO: implement User
 }
-
-*/

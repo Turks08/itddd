@@ -1,39 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter8/_04_to_12/Config/Dependency/InMemoryModuleDependencySetup.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿using _04_to_12.Application.Users;
-using _04_to_12.InMemoryInfrastructure;
-using _04_to_12.Models.Users;
-using Microsoft.Extensions.DependencyInjection;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter8/_04_to_12/Config/Dependency/InMemoryModuleDependencySetup.dart
 
-namespace _04_to_12.Config.Dependency
-{
-    public class InMemoryModuleDependencySetup : IDependencySetup
-    {
-        public void Run(IServiceCollection services)
-        {
-            SetupRepositories(services);
-            SetupApplicationServices(services);
-            SetupDomainServices(services);
-        }
-
-        private void SetupRepositories(IServiceCollection services)
-        {
-            services.AddSingleton<IUserRepository, InMemoryUserRepository>();
-        }
-
-        private void SetupApplicationServices(IServiceCollection
-            services)
-        {
-            services.AddTransient<UserApplicationService>();
-        }
-
-        private void SetupDomainServices(IServiceCollection services)
-        {
-            services.AddTransient<UserService>();
-        }
-    }
+class InMemoryModuleDependencySetup {
+  // TODO: implement InMemoryModuleDependencySetup
 }
-
-*/

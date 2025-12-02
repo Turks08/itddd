@@ -1,22 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter11/_12/SnsApplication/Circles/Invite/CircleInviteCommand.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿namespace _12.SnsApplication.Circles.Invite
-{
-    public class CircleInviteCommand
-    {
-        public CircleInviteCommand(string circleId, string fromUserId, string invitedUserId)
-        {
-            CircleId = circleId;
-            FromUserId = fromUserId;
-            InvitedUserId = invitedUserId;
-        }
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter11/_12/SnsApplication/Circles/Invite/CircleInviteCommand.dart
 
-        public string CircleId { get; set; }
-        public string FromUserId { get; set; }
-        public string InvitedUserId { get; set; }
-    }
+class CircleInviteCommand {
+  // TODO: implement CircleInviteCommand
 }
-
-*/

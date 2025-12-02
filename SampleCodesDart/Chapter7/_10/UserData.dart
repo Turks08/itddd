@@ -1,19 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter7/_10/UserData.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿namespace _10
-{
-    public class UserData
-    {
-        public UserData(User source)
-        {
-            Id = source.Id.Value;
-            Name = source.Name.Value;
-        }
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter7/_10/UserData.dart
 
-        public string Id { get; }
-        public string Name { get; }
-    }
+class UserData {
+  // TODO: implement UserData
 }
-*/

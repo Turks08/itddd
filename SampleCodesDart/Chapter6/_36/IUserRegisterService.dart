@@ -1,13 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter6/_36/IUserRegisterService.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿namespace _36
-{
-    public interface IUserRegisterService
-    {
-        void Handle(UserRegisterCommand command);
-    }
-}
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter6/_36/IUserRegisterService.dart
 
-*/
+class IUserRegisterService {
+  // TODO: implement IUserRegisterService
+}

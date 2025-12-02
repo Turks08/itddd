@@ -1,16 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter10/_15/Domain/Shared/IUnitOfWork.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿using _15.Domain.Models.Users;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter10/_15/Domain/Shared/IUnitOfWork.dart
 
-namespace _15.Domain.Shared
-{
-    public interface IUnitOfWork
-    {
-        IUserRepository UserRepository { get; }
-        void Commit();
-    }
+class IUnitOfWork {
+  // TODO: implement IUnitOfWork
 }
-
-*/

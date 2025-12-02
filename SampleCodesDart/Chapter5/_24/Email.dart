@@ -1,16 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter5/_24/Email.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter5/_24/Email.dart
 
-namespace _24
-{
-    class Email
-    {
-    }
+class Email {
+  // TODO: implement Email
 }
-
-*/

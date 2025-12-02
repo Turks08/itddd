@@ -1,21 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter5/_15/Program.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿namespace _15
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            var userRepository = new InMemoryUserRepository();
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter5/_15/Program.dart
 
-            // オブジェクトを再構築する際にディープコピーを行わないと
-            var user = userRepository.Find(new UserName("Naruse"));
-            // 次の操作がリポジトリ内部で保管されているインスタンスにまで影響する
-            user.ChangeUserName(new UserName("naruse"));
-        }
-    }
+void main() {
+  print('TODO: implement Chapter5/_15/Program.dart');
 }
-
-*/

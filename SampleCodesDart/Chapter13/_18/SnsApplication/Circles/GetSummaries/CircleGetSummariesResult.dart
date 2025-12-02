@@ -1,20 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter13/_18/SnsApplication/Circles/GetSummaries/CircleGetSummariesResult.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿using System.Collections.Generic;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter13/_18/SnsApplication/Circles/GetSummaries/CircleGetSummariesResult.dart
 
-namespace _18.SnsApplication.Circles.GetSummaries
-{
-    public class CircleGetSummariesResult
-    {
-        public CircleGetSummariesResult(List<CircleSummaryData> summaries)
-        {
-            Summaries = summaries;
-        }
-
-        public List<CircleSummaryData> Summaries { get; }
-    }
+class CircleGetSummariesResult {
+  // TODO: implement CircleGetSummariesResult
 }
-
-*/

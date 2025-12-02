@@ -1,19 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter3/_03/Program.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿namespace _03
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            var program = new MyProgram();
-            var user = new User("test-user");
-            var request = new UserChangeNameRequest {Name = null};
-            program.Main(user, request);
-        }
-    }
-}
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter3/_03/Program.dart
 
-*/
+void main() {
+  print('TODO: implement Chapter3/_03/Program.dart');
+}

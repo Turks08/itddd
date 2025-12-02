@@ -1,35 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter5/_03/Program.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿using System;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter5/_03/Program.dart
 
-namespace _03
-{
-    class Program
-    {
-        private IUserRepository userRepository;
-
-        public Program(IUserRepository userRepository)
-        {
-            this.userRepository = userRepository;
-        }
-
-        public void CreateUser(string userName)
-        {
-            var user = new User(
-                new UserName(userName)
-            );
-
-            var userService = new UserService(userRepository);
-            if (userService.Exists(user))
-            {
-                throw new Exception($"{userName}は既に存在しています");
-            }
-
-            userRepository.Save(user);
-        }
-    }
+void main() {
+  print('TODO: implement Chapter5/_03/Program.dart');
 }
-
-*/

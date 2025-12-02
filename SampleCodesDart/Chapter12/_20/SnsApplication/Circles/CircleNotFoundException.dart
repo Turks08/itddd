@@ -1,26 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter12/_20/SnsApplication/Circles/CircleNotFoundException.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿using System;
-using _20.SnsDomain.Models.Circles;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter12/_20/SnsApplication/Circles/CircleNotFoundException.dart
 
-namespace _20.SnsApplication.Circles
-{
-    public class CircleNotFoundException : Exception
-    {
-        public CircleNotFoundException(CircleId id)
-        {
-            Id = id.Value;
-        }
-
-        public CircleNotFoundException(CircleId id, string message) : base(message)
-        {
-            Id = id.Value;
-        }
-
-        public string Id { get; }
-    }
+class CircleNotFoundException {
+  // TODO: implement CircleNotFoundException
 }
-
-*/

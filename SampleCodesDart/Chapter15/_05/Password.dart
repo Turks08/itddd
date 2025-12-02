@@ -1,40 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter15/_05/Password.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿using System;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter15/_05/Password.dart
 
-namespace _05
-{
-    public class Password : IEquatable<Password>
-    {
-        private readonly string value;
-
-        public Password(string value)
-        {
-            this.value = value;
-        }
-
-        public bool Equals(Password other)
-        {
-            if (ReferenceEquals(null, other)) return false;
-            if (ReferenceEquals(this, other)) return true;
-            return value == other.value;
-        }
-
-        public override bool Equals(object obj)
-        {
-            if (ReferenceEquals(null, obj)) return false;
-            if (ReferenceEquals(this, obj)) return true;
-            if (obj.GetType() != this.GetType()) return false;
-            return Equals((Password) obj);
-        }
-
-        public override int GetHashCode()
-        {
-            return (value != null ? value.GetHashCode() : 0);
-        }
-    }
+class Password {
+  // TODO: implement Password
 }
-
-*/

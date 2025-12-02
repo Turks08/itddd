@@ -1,32 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter8/_04_to_12/Program.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter8/_04_to_12/Program.dart
 
-namespace _04_to_12
-{
-    public class Program
-    {
-        public static void Main(string[] args)
-        {
-            CreateHostBuilder(args).Build().Run();
-        }
-
-        public static IHostBuilder CreateHostBuilder(string[] args) =>
-            Host.CreateDefaultBuilder(args)
-                .ConfigureWebHostDefaults(webBuilder =>
-                {
-                    webBuilder.UseStartup<Startup>();
-                });
-    }
+void main() {
+  print('TODO: implement Chapter8/_04_to_12/Program.dart');
 }
-
-*/

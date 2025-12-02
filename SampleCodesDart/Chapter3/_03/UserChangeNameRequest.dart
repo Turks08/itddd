@@ -1,13 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter3/_03/UserChangeNameRequest.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿namespace _03
-{
-    class UserChangeNameRequest
-    {
-        public string Name { get; set; }
-    }
-}
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter3/_03/UserChangeNameRequest.dart
 
-*/
+class UserChangeNameRequest {
+  // TODO: implement UserChangeNameRequest
+}

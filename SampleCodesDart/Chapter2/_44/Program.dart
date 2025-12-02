@@ -1,23 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter2/_44/Program.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿using System;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter2/_44/Program.dart
 
-namespace _44
-{
-    public class Program
-    {
-        void CreateUser(string name)
-        {
-            if (name == null) throw new ArgumentNullException(nameof(name));
-            if (name.Length < 3) throw new ArgumentException("ユーザ名は3文字以上です。", nameof(name));
-
-            var user = new User(name);
-
-            // ...
-        }
-    }
+void main() {
+  print('TODO: implement Chapter2/_44/Program.dart');
 }
-
-*/

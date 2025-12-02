@@ -1,27 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter6/_07/CanNotRegisterUserException.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿using System;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter6/_07/CanNotRegisterUserException.dart
 
-namespace _07
-{
-    public class CanNotRegisterUserException : Exception
-    {
-        public CanNotRegisterUserException(User user, string message) : base(message)
-        {
-            Id = user?.Id?.Value;
-            Name = user?.Name?.Value;
-        }
-
-        public CanNotRegisterUserException(UserName name, string message) : base(message)
-        {
-            Name = name?.Value;
-        }
-
-        public string Id { get; }
-        public string Name { get; }
-    }
+class CanNotRegisterUserException {
+  // TODO: implement CanNotRegisterUserException
 }
-
-*/

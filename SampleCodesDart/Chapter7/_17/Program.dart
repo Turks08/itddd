@@ -1,26 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter7/_17/Program.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿using Microsoft.Extensions.DependencyInjection;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter7/_17/Program.dart
 
-namespace _17
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            // IoC Container
-            var serviceCollection = new ServiceCollection();
-            // 依存解決の設定を登録する
-            serviceCollection.AddTransient<IUserRepository, InMemoryUserRepository>();
-            serviceCollection.AddTransient<UserApplicationService>();
-
-            // インスタンスはIoC Container経由で取得する
-            var provider = serviceCollection.BuildServiceProvider();
-            var userApplicationService = provider.GetService<UserApplicationService>();
-        }
-    }
+void main() {
+  print('TODO: implement Chapter7/_17/Program.dart');
 }
-
-*/

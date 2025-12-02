@@ -1,14 +1,6 @@
-// Dart placeholder generated from SampleCodes
-// Source: SampleCodes/Chapter6/_38/ComplexException.cs
-// TODO: Replace with idiomatic Dart implementation.
-/*
-﻿using System;
+// Dart stub generated to replace placeholder C# code.
+// File: Chapter6/_38/ComplexException.dart
 
-namespace _38
-{
-    public class ComplexException : Exception
-    {
-    }
+class ComplexException {
+  // TODO: implement ComplexException
 }
-
-*/
